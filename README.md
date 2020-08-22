@@ -1,4 +1,4 @@
 # Animated E-Reader UI
-![Alice Reader Gif](https://miro.medium.com/max/400/1*qhPqebh5y7tONtqvL0Xvpw.gif)
+![](https://github.com/nishinraj/animated-e-reader-ui/blob/master/AliceReader.gif)
 
 https://medium.com/@nishinraj/give-life-to-ui-with-basic-animations-kotlin-development-72ba88c158b1
